@@ -22,10 +22,6 @@ The dataset simulates a music store and includes the following tables:
 - Determine revenue trends
 - Understand geographic sales distribution
 
-### 🛠️ Tools & Technologies
-- SQL (MySQL / PostgreSQL / SQL Server)
-- Database Management Systems (DBMS)
-
 ### 📊 Key SQL Concepts Used
 - SELECT, WHERE, ORDER BY
 - JOINS (INNER JOIN, LEFT JOIN, etc.)
@@ -33,3 +29,7 @@ The dataset simulates a music store and includes the following tables:
 - Aggregate Functions (SUM, COUNT, AVG)
 - Subqueries
 - Window Functions (optional advanced queries)
+
+### 🛠️Technologies
+- SQL (MySQL / PostgreSQL)
+- Database Management Systems (DBMS)
