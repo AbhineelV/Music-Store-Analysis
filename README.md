@@ -31,5 +31,5 @@ The dataset simulates a music store and includes the following tables:
 - Window Functions (optional advanced queries)
 
 ### 🛠️Technologies
-- SQL (MySQL / PostgreSQL)
-- Database Management Systems (DBMS)
+- SQL
+
